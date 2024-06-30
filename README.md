@@ -6,8 +6,10 @@
 ![抓包（打码部分为需要在脚本中更改）](https://img.picui.cn/free/2024/06/30/6680d74d19767.jpg)
 ![脚本](https://img.picui.cn/free/2024/06/30/6680d86232c87.png)
  <center>运行<center> 
+
+  ![Snipaste_2024-06-30_12-08-10.png](https://img.picui.cn/free/2024/06/30/6680dd803d629.png)
 ![Snipaste_2024-06-30_12-08-10.png](https://img.picui.cn/free/2024/06/30/6680dd803d629.png)
-![Snipaste_2024-06-30_12-08-10.png](https://img.picui.cn/free/2024/06/30/6680dd803d629.png)
+
 <center>其他<center> 
 脚本输出的文件为<font color= #871F78>output.csv</font>，可以用WPS等软件编辑
 
